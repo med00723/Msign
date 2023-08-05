@@ -1,0 +1,12 @@
+.Search-Student-Input {
+  padding: 4px 11px;
+  width: 79vw;
+  height: 32px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: rgba(0,0,0,.65);
+  background-color: #FFC0CB;
+  border: 1px solid #FFC0CB;
+  border-radius: 4px;
+  outline: none;
+}
